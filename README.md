@@ -2,7 +2,7 @@
 Cygni konsulentmøde der handler om arduino robot programmering. I dette tilfælde en line follower robot. 
 
 ## Setup Arduino workspace
-1) VS code can be used as ide for programming Arduinos but its a bit of a hassle to setup: [guide](https://www.circuitstate.com/wp-content/cache/all/tutorials/how-to-use-vs-code-for-creating-and-uploading-arduino-sketches/index.html)
+1) VS code can be used as an IDE for programming Arduinos but its a bit of a hassle to setup: [guide](https://www.circuitstate.com/wp-content/cache/all/tutorials/how-to-use-vs-code-for-creating-and-uploading-arduino-sketches/index.html)
 2) But, arduino have their own IDE that can be found [here](https://www.arduino.cc/en/software)
 
 
